@@ -1,4 +1,4 @@
-<img width="928" height="463" alt="Scree 2026-05-15 164759" src="https://github.com/user-attachments/assets/0aa50253-947b-4121-ba41-05f9244c16dd" /># Haja-Mariama-Seray-Sesay_905006163-BICT-1201-Programming-Assgniment-1
+<img width="928" height="463" alt="Scree 2026-05-15 164759" src="https://github.com/user-attachments/assets/0aa50253-947b-4121-ba41-05f9244c16dd" /># Haja-Mariama-Seray-Sesay_905006163-BICT-1201-Programming-Assignment-1
 
 Student 
 <img width="928" height="463" alt="Scree 2026-05-15 164759" src="https://github.com/user-attachments/assets/58860a45-44ef-4c3b-93fe-4dadcf7eac24" />
